@@ -50,7 +50,7 @@ public class PhanSo {
         PhanSo phanSoTong = new PhanSo(ts, ms);
         phanSoTong.toiGianPhanSo();
         System.out.println("Tổng hai phân số = " + phanSoTong.Tu + "/" + phanSoTong.Mau);
-        ....................
+        .................
     }
       
     public void truPhanSo(PhanSo ps) {
